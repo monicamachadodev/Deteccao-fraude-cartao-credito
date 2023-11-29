@@ -13,11 +13,13 @@ A instituição financeira enfrenta desafios constantes na detecção precoce de
 
 ## Pré-requisitos 
 
-- Python 3.11
-- Bibliotecas: `plotly`, `pandas`, `numpy`
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+### Bibliotecas:
   
-[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
-
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ```bash
 pip install plotly pandas numpy
 ```
@@ -25,6 +27,17 @@ pip install plotly pandas numpy
 ## Estrutura do Projeto
 1. detecao_fraude_cartao_credito.ipynb: Jupyter Notebook contendo o código e a análise do projeto.
 2. creditcard.csv: Conjunto de dados de transações de cartão de crédito.
+
+## Executando o Código
+
+Clone ou faça o download do repositório.
+
+Certifique-se de ter os pré-requisitos instalados.
+
+Execute o script agente-q-learning-para-negociacao.ipynb:
+```bash
+detecao_fraude_cartao_credito.ipynb jupiter notebook
+```
 
 ## Resultados obtidos:
 
@@ -55,7 +68,7 @@ O projeto desenvolveu modelos de machine learning para detecção de fraudes em 
 As métricas de desempenho indicam que os modelos são capazes de identificar eficientemente transações fraudulentas, contribuindo para a segurança financeira e a confiança dos clientes. No entanto, é importante destacar que a escolha entre Scikit-Learn e Snap ML deve considerar não apenas a eficiência de treinamento, mas também a manutenção, escalabilidade e outros requisitos específicos do projeto.
 
 ## Contribuições
-Contribuições são bem-vindas!🫶 
+Contribuições são bem-vindas! 🫶 
 
 Sinta-se à vontade para abrir problemas (issues) ou enviar pull requests com melhorias.
 
