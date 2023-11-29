@@ -1,4 +1,4 @@
-![picture alt](http://via.placeholder.com/1000x150 "Title is optional")
+<img src="/assets/img/deteccao-de-fraude.png">
 # Modelo Machine Learning Scikit-Learn e Snap ML para Detecção de Fraude em Cartões de Crédito
 
 ## Problema de Negócio: 
