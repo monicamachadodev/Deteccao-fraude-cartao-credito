@@ -1,5 +1,4 @@
-<img src="/assets/img/deteccao-de-fraude.png">
-# Modelo Machine Learning Scikit-Learn e Snap ML para Detecção de Fraude em Cartões de Crédito
+<img src="https://github.com/monicamachadodev/Deteccao-fraude-cartao-credito/blob/main/deteccao-de-fraude.png">
 
 ## Problema de Negócio: 
 
