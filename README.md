@@ -1,3 +1,4 @@
+![picture alt](http://via.placeholder.com/1000x150 "Title is optional")
 # Modelo Machine Learning Scikit-Learn e Snap ML para Detecção de Fraude em Cartões de Crédito
 
 ## Problema de Negócio: 
@@ -6,32 +7,21 @@ A instituição financeira enfrenta desafios constantes na detecção precoce de
 
 ## Objetivos:
 
-1. Desenvolver e comparar modelos de machine learning para a detecção de fraudes em transações de cartão de crédito.
-2. Aprimoramento da precisão na identificação de transações fraudulentas, a minimização de falsos positivos.
-3. Melhoria da eficiência do processo para lidar com grandes volumes em tempo real
-4. Garantir a confiabilidade e segurança das transações para proporcionar uma experiência positiva aos clientes.
+> 1. Desenvolver e comparar modelos de machine learning para a detecção de fraudes em transações de cartão de crédito.
+> 2. Aprimoramento da precisão na identificação de transações fraudulentas, a minimização de falsos positivos.
+> 3. Melhoria da eficiência do processo para lidar com grandes volumes em tempo real
+> 4. Garantir a confiabilidade e segurança das transações para proporcionar uma experiência positiva aos clientes.
 
-## Instalação
+## Pré-requisitos
 
-Para executar este projeto, você precisará instalar as dependências. Use o seguinte comando:
-
-```bash
-pip install -r requirements.txt
-```
-## Como Usar
-Clone o Repositório:
+- Python 3.11
+- Bibliotecas: `plotly`, `pandas`, `numpy`
+  
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
 ```bash
-git clone https://github.com/seu-usuario/seu-projeto.git
-cd seu-projeto
+pip install plotly pandas numpy
 ```
-
-## Execute o Jupyter Notebook:
-
-```bash
-jupyter notebook
-```
-Abra o arquivo detecao_fraude_cartao_credito.ipynb e execute as células conforme necessário.
 
 ## Estrutura do Projeto
 1. detecao_fraude_cartao_credito.ipynb: Jupyter Notebook contendo o código e a análise do projeto.
@@ -65,3 +55,8 @@ O projeto desenvolveu modelos de machine learning para detecção de fraudes em 
 
 As métricas de desempenho indicam que os modelos são capazes de identificar eficientemente transações fraudulentas, contribuindo para a segurança financeira e a confiança dos clientes. No entanto, é importante destacar que a escolha entre Scikit-Learn e Snap ML deve considerar não apenas a eficiência de treinamento, mas também a manutenção, escalabilidade e outros requisitos específicos do projeto.
 
+## Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) ou enviar pull requests com melhorias.
+
+## Licença
+Este projeto é distribuído sob a Licença MIT.
