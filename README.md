@@ -7,10 +7,10 @@ A instituição financeira enfrenta desafios constantes na detecção precoce de
 
 ## Objetivos:
 
-> 1. Desenvolver e comparar modelos de machine learning para a detecção de fraudes em transações de cartão de crédito.
-> 2. Aprimoramento da precisão na identificação de transações fraudulentas, a minimização de falsos positivos.
-> 3. Melhoria da eficiência do processo para lidar com grandes volumes em tempo real
-> 4. Garantir a confiabilidade e segurança das transações para proporcionar uma experiência positiva aos clientes.
+> - Desenvolver e comparar modelos de machine learning para a detecção de fraudes em transações de cartão de crédito.
+> - Aprimoramento da precisão na identificação de transações fraudulentas, a minimização de falsos positivos.
+> - Melhoria da eficiência do processo para lidar com grandes volumes em tempo real
+> - Garantir a confiabilidade e segurança das transações para proporcionar uma experiência positiva aos clientes.
 
 ## Pré-requisitos
 
