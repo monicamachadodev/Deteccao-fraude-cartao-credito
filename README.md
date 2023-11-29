@@ -12,7 +12,7 @@ A instituição financeira enfrenta desafios constantes na detecção precoce de
 > - Melhoria da eficiência do processo para lidar com grandes volumes em tempo real
 > - Garantir a confiabilidade e segurança das transações para proporcionar uma experiência positiva aos clientes.
 
-## Pré-requisitos
+## Pré-requisitos 
 
 - Python 3.11
 - Bibliotecas: `plotly`, `pandas`, `numpy`
@@ -29,23 +29,23 @@ pip install plotly pandas numpy
 
 ## Resultados obtidos:
 
-1. Análise Exploratória de Dados:
+1. **Análise Exploratória de Dados:**
 O conjunto de dados inicial continha transações de cartão de crédito, com um número significativo de observações e variáveis.
 Foi realizada uma análise exploratória para compreender a distribuição das classes e das características.
 
-2. Pré-processamento de Dados:
+2. **Pré-processamento de Dados:**
 O conjunto de dados foi inflado para aumentar a quantidade de observações, permitindo uma melhor generalização dos modelos.
 A normalização e padronização foram aplicadas para preparar os dados para treinamento.
 
-3. Treinamento de Modelos:
+3. **Treinamento de Modelos:**
 Foram treinados modelos de árvore de decisão e máquina de vetores de suporte (SVM) usando tanto Scikit-Learn quanto Snap ML.
 Os modelos foram treinados utilizando a estratégia de pesos amostrais balanceados para lidar com o desbalanceamento das classes.
 
-4. Avaliação de Desempenho:
+4. **Avaliação de Desempenho:**
 Métricas como a Área sob a Curva ROC (ROC-AUC) foram utilizadas para avaliar o desempenho dos modelos.
 Os modelos foram comparados quanto à precisão na detecção de fraudes e eficiência de treinamento.
 
-5. Resultados Específicos:
+5. **Resultados Específicos:**
 O modelo de árvore de decisão e o modelo SVM treinados com Snap ML apresentaram velocidades de treinamento significativamente mais rápidas em comparação com suas contrapartes do Scikit-Learn.
 As pontuações ROC-AUC indicaram desempenho competitivo entre os modelos treinados com ambas as bibliotecas.
 
@@ -56,6 +56,8 @@ O projeto desenvolveu modelos de machine learning para detecção de fraudes em 
 As métricas de desempenho indicam que os modelos são capazes de identificar eficientemente transações fraudulentas, contribuindo para a segurança financeira e a confiança dos clientes. No entanto, é importante destacar que a escolha entre Scikit-Learn e Snap ML deve considerar não apenas a eficiência de treinamento, mas também a manutenção, escalabilidade e outros requisitos específicos do projeto.
 
 ## Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) ou enviar pull requests com melhorias.
+Contribuições são bem-vindas!🫶 
+
+Sinta-se à vontade para abrir problemas (issues) ou enviar pull requests com melhorias.
 
 [![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.org/project/pip/)
