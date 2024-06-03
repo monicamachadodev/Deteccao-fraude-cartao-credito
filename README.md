@@ -34,7 +34,7 @@ Clone ou faça o download do repositório.
 
 Certifique-se de ter os pré-requisitos instalados.
 
-Execute o script agente-q-learning-para-negociacao.ipynb:
+Execute o scripy:
 ```bash
 detecao_fraude_cartao_credito.ipynb jupiter notebook
 ```
