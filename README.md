@@ -54,7 +54,7 @@ O conjunto de dados foi inflado para aumentar a quantidade de observações, per
 A normalização e padronização foram aplicadas para preparar os dados para treinamento.
 
 3. **Treinamento de Modelos:**
-Foram treinados modelos de árvore de decisão e máquina de vetores de suporte (SVM) usando tanto Scikit-Learn quanto Snap ML.
+Foram treinados modelos de árvore de decisão e máquina de vetores de suporte (SVM) usando tanto `Scikit-Learn` quanto `Snap ML`.
 Os modelos foram treinados utilizando a estratégia de pesos amostrais balanceados para lidar com o desbalanceamento das classes.
 
 4. **Avaliação de Desempenho:**
@@ -62,14 +62,15 @@ Métricas como a Área sob a Curva ROC (ROC-AUC) foram utilizadas para avaliar o
 Os modelos foram comparados quanto à precisão na detecção de fraudes e eficiência de treinamento.
 
 5. **Resultados Específicos:**
-O modelo de árvore de decisão e o modelo SVM treinados com Snap ML apresentaram velocidades de treinamento significativamente mais rápidas em comparação com suas contrapartes do Scikit-Learn.
+O modelo de árvore de decisão e o modelo SVM treinados com `Snap ML` apresentaram velocidades de treinamento significativamente mais rápidas em comparação com suas contrapartes do `Scikit-Learn`.
 As pontuações ROC-AUC indicaram desempenho competitivo entre os modelos treinados com ambas as bibliotecas.
 
 # Conclusão:
 
-O projeto desenvolveu modelos de machine learning para detecção de fraudes em transações de cartão de crédito, comparando eficiência entre Scikit-Learn e Snap ML. Os resultados sugerem que o Snap ML pode oferecer benefícios significativos em termos de eficiência de treinamento, sem comprometer o desempenho preditivo em relação ao Scikit-Learn.
+O projeto desenvolveu modelos de Machine Learning para detecção de fraudes em transações de cartão de crédito, comparando eficiência entre `Scikit-Learn` e `Snap ML`. Os resultados sugerem que o 
+`Snap ML` pode oferecer benefícios significativos em termos de eficiência de treinamento, sem comprometer o desempenho preditivo em relação ao `Scikit-Learn`.
 
-As métricas de desempenho indicam que os modelos são capazes de identificar eficientemente transações fraudulentas, contribuindo para a segurança financeira e a confiança dos clientes. No entanto, é importante destacar que a escolha entre Scikit-Learn e Snap ML deve considerar não apenas a eficiência de treinamento, mas também a manutenção, escalabilidade e outros requisitos específicos do projeto.
+As métricas de desempenho indicam que os modelos são capazes de identificar eficientemente transações fraudulentas, contribuindo para a segurança financeira e a confiança dos clientes. No entanto, é importante destacar que a escolha entre `Scikit-Learn` e `Snap ML` deve considerar não apenas a eficiência de treinamento, mas também a manutenção, escalabilidade e outros requisitos específicos do projeto.
 
 ## Contribuições
 Contribuições são bem-vindas! 🫶 
