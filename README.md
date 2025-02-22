@@ -1,5 +1,9 @@
 <img src="https://github.com/monicamachadodev/Deteccao-fraude-cartao-credito/blob/main/deteccao-de-fraude.png">
 
+# Visão Geral
+
+Este estudo tem como objetivo construir e comparar modelos de detecção de fraude em transações de cartões de crédito, utilizando técnicas de aprendizado de máquina, especificamente **Árvores de Decisão e Máquinas de Vetores de Suporte (SVM)**. O processo envolve o treinamento, a validação e a avaliação do desempenho de ambos os modelos, com o intuito de identificar qual abordagem apresenta maior eficácia na identificação de transações fraudulentas. A comparação será baseada em métricas de desempenho, como precisão, recall, F1-score e AUC-ROC, visando fornecer insights sobre as vantagens e limitações de cada método no contexto de detecção de fraude.
+
 ## Problema de Negócio: 
 
 A instituição financeira enfrenta desafios constantes na detecção precoce de fraudes em transações de cartão de crédito. O volume de transações é significativo, e é crucial identificar padrões suspeitos que possam indicar atividades fraudulentas.
